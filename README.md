@@ -8,3 +8,4 @@
 * Netflix - media sharing Application
 * Code Academy - online trainig Application
 * Reddit - Content sharing Application
+* 
