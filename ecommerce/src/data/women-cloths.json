@@ -1,0 +1,560 @@
+[
+    {
+        "id": "SE1",
+        "sellerName": "ABC",
+        "address": "",
+        "cloths": [
+            {
+                "id": "SE1-1",
+                "category": "dress",
+                "type": "casual",
+                "band": "pan america",
+                "name": "PAN America-casual-dress-cloths-women-fashion-fitted-cotton",
+                "style": "fitted",
+                "material": "cotton",
+                "pattern": "solid",
+                "fabric": "synthetic",
+                "url": "images/wdress1.jpg",
+                "stock": [
+                    {
+                        "size": "S",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "M",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "L",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "XL",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "SE1-2",
+                "category": "tops",
+                "type": "casual",
+                "band": "HUE",
+                "name": "HUE-casual-tops-women-fashion-fitted-cotton",
+                "style": "fitted",
+                "material": "cotton",
+                "pattern": "solid",
+                "fabric": "synthetic",
+                "url": "images/wdress2.jpg",
+                "stock": [
+                    {
+                        "size": "S",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "M",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "L",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "XL",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "SE1-3",
+                "category": "sweaters",
+                "type": "casual",
+                "band": "ABC",
+                "name": "HUE-casual-tops-women-fashion-fitted-cotton",
+                "fitStyle": "fitted",
+                "sleveStyle": "Baloon sleves",
+                "neckStyle": "High neck",
+                "material": "cotton",
+                "pattern": "solid",
+                "fabric": "synthetic",
+                "url": "images/wdress3.jpg",
+                "stock": [
+                    {
+                        "size": "S",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "M",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "L",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "XL",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "SE2",
+        "sellerName": "ABC",
+        "address": "",
+        "cloths": [
+            {
+                "id": "SE2-1",
+                "category": "dress",
+                "type": "casual",
+                "band": "pan america",
+                "name": "PAN America-casual-dress-cloths-women-fashion-fitted-cotton",
+                "style": "fitted",
+                "material": "cotton",
+                "pattern": "solid",
+                "fabric": "synthetic",
+                "url": "images/wdress4.jpg",
+                "stock": [
+                    {
+                        "size": "S",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "M",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "L",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "XL",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "SE2-2",
+                "category": "tops",
+                "type": "casual",
+                "band": "HUE",
+                "name": "HUE-casual-tops-women-fashion-fitted-cotton",
+                "style": "fitted",
+                "material": "cotton",
+                "pattern": "solid",
+                "fabric": "synthetic",
+                "url": "images/wdress6.png",
+                "stock": [
+                    {
+                        "size": "S",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "M",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "L",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "XL",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "SE2-3",
+                "category": "sweaters",
+                "type": "casual",
+                "band": "ABC",
+                "name": "HUE-casual-tops-women-fashion-fitted-cotton",
+                "fitStyle": "fitted",
+                "sleveStyle": "Baloon sleves",
+                "neckStyle": "High neck",
+                "material": "cotton",
+                "pattern": "solid",
+                "fabric": "synthetic",
+                "url": "images/wdress7.jpeg",
+                "stock": [
+                    {
+                        "size": "S",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "M",
+                        "price": "500",
+                        "offer_price": "300",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "L",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    },
+                    {
+                        "size": "XL",
+                        "price": "550",
+                        "offer_price": "350",
+                        "byColors": [
+                            {
+                                "name": "navy blue",
+                                "available": 150
+                            },
+                            {
+                                "name": "red",
+                                "available": 50
+                            },
+                            {
+                                "name": "pink",
+                                "available": 20
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

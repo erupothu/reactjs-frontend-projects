@@ -1,0 +1,27 @@
+
+
+.checkout {
+    display: flex;
+}
+.checkout__containers {
+    margin: 10px;
+}
+.checkout__container {
+    display: flex;
+    box-shadow: 2px 2px 2px 2px rgb(134, 134, 172);
+}
+.checkout__imageStyles {
+    display: flex;
+    height: 10vh;
+    width: 10vw;
+    padding: 5px;
+}
+
+.checkout__byContainer {
+    position: fixed;
+    top: 10vh;
+    right: 0;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 2px 2px greenyellow;
+}
