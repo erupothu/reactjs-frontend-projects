@@ -1,0 +1,99 @@
+{
+    "seller": [
+        {
+            "id": "1234",
+            "name": "ABC",
+            "address": "",
+            "shoes": [
+                {
+                    "id": "Nike-casual-shoes-women-fashion-1001",
+                    "category": "shoes",
+                    "type": "casual",
+                    "band": "Nike",
+                    "name": "",
+                    "style": "fitted",
+                    "material": "",
+                    "pattern": "solid",
+                    "stock": [
+                        {
+                            "size": "S",
+                            "price": "500",
+                            "offer_price": "300",
+                            "byColors": [
+                                {
+                                    "name": "navy blue",
+                                    "available": 150
+                                },
+                                {
+                                    "name": "red",
+                                    "available": 50
+                                },
+                                {
+                                    "name": "pink",
+                                    "available": 20
+                                }
+                            ]
+                        },
+                        {
+                            "size": "M",
+                            "price": "500",
+                            "offer_price": "300",
+                            "byColors": [
+                                {
+                                    "name": "navy blue",
+                                    "available": 150
+                                },
+                                {
+                                    "name": "red",
+                                    "available": 50
+                                },
+                                {
+                                    "name": "pink",
+                                    "available": 20
+                                }
+                            ]
+                        },
+                        {
+                            "size": "L",
+                            "price": "550",
+                            "offer_price": "350",
+                            "byColors": [
+                                {
+                                    "name": "navy blue",
+                                    "available": 150
+                                },
+                                {
+                                    "name": "red",
+                                    "available": 50
+                                },
+                                {
+                                    "name": "pink",
+                                    "available": 20
+                                }
+                            ]
+                        },
+                        {
+                            "size": "XL",
+                            "price": "550",
+                            "offer_price": "350",
+                            "byColors": [
+                                {
+                                    "name": "navy blue",
+                                    "available": 150
+                                },
+                                {
+                                    "name": "red",
+                                    "available": 50
+                                },
+                                {
+                                    "name": "pink",
+                                    "available": 20
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

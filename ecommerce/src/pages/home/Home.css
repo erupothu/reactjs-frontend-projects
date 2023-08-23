@@ -1,0 +1,18 @@
+
+.home_header {
+    
+}
+.home__container {
+    
+}
+
+.home__image {
+    height: 40vh;
+    width: 100%;
+}
+
+.body__cards {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
