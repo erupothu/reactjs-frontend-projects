@@ -11,6 +11,7 @@ function Header() {
 
   const items = useSelector((state: any) => state.checkoutCart.items);
   const count = 0 | useSelector((state: any) => state.checkoutCart.totalQuantity);
+  const {email, password} = useSelector((state: any) => state.userDetails)
     return (
       <div className="header">
         <Link to="">
@@ -28,8 +29,10 @@ function Header() {
 
         <div className="header__nav">
           <div className="nav__item">
-            <span className="nav__itemLineOne">Hello Guest</span>
+            <span className="nav__itemLineOne">Hello {email} </span>
+            <Link to="login">
             <span className="nav__itemLineTwo">Sign In</span>
+            </Link>
           </div>
           <Link to="checkout">
             <div className='nav__itemBasket'>

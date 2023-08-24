@@ -69,9 +69,6 @@ const Product = (props: any) => {
                         alt="Dress"
                     />
                     <CardContent>
-                        {/* <div>
-                            <Button onClick={addToCardHandler} > Add to Cart</Button>
-                        </div> */}
                         <Typography variant="body2" color="text.secondary">
                             {
                                 props.data.stock.map((item: any) => {
@@ -80,17 +77,8 @@ const Product = (props: any) => {
                                             <table>
                                                 <tr>
                                                     <td> size: {item.size}, price: {item.price} offer price: {item.offer_price} 
-                                                    <Button onClick={() => addToCardHandler(item)} > Add to Cart</Button> </td>
+                                                    <Button onClick={() => addToCardHandler(item)} >Add</Button> </td>
                                                 </tr>
-                                                {/* <tr>
-                                                    <td>Colors: {
-                                                    item.byColors.map((sitem: any) => {
-                                                        return (
-                                                            <span> {sitem.name}</span>
-                                                        )
-                                                    })
-                                                    }</td>
-                                                </tr> */}
                                             </table>
                                         </div>
                                     )
