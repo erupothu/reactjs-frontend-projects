@@ -1,0 +1,36 @@
+
+
+.login {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    width: 20vw;
+    top: 50%;
+    left: 50%;
+    box-shadow: 2px 2px 2px 2px greenyellow;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.login__container {
+    padding: 30px;
+}
+
+.login__email {
+    margin: 10px;
+    align-items: center;
+}
+.login__Password {
+    align-items: center;
+    margin: 10px;
+}
+
+.login__submit {
+    background-color: rgb(163, 163, 230);
+    color: white;
+    display: flex;
+    margin: 12px;
+    padding: 5px;
+    width: 5vw;
+    text-align: center;
+}

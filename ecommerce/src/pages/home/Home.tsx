@@ -1,5 +1,6 @@
 import Product from "../products/Product";
-import data from '../../data/women-cloths.json'
+import data from '../../data/women-cloths.json';
+import './Home.css'
 
 
 function Home() {
@@ -8,17 +9,13 @@ function Home() {
     const imageHeight = {
         height: '50vh'
     }
-    const BodyCards = {
-        display: 'flex',
-        margin: '0 5px'
-    }
 
     return (
         <div className="home_header">
             <div className="home__container">
                 <img src="https://www.training.devwebtechnology.com/wp-content/uploads/2022/01/ecommerce-1024x683.jpg" alt="" className="home__image" width={imgWidth} style={imageHeight} />
             </div>
-            <div className="body__cards" style={BodyCards}>
+            <div className="body__cards">
                 {
                     data.map((item: any) => {
                         return (
