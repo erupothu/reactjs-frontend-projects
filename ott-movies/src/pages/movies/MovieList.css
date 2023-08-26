@@ -1,0 +1,41 @@
+
+.movieList__container {
+    display: flex;
+    margin: 3px;
+}
+
+.image-container {
+    display: flex;
+    margin: 5px;
+    transition: transform 250ms, opacity 400ms;
+}
+
+.image-container:hover {
+    transform: scale(1.2);
+    opacity: 1px;
+}
+@media print {
+    .image__footer {
+      break-after: always;
+    }
+  }
+.image__footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.movieListHeading__contianer {
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    height: 5%;
+    top: 0;
+    left: 0;
+    font-weight: bold;
+}
+
+.serachBox__container {
+    margin: 20px 0 0 0;
+    width: 50vw;
+}
